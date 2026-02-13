@@ -10,7 +10,7 @@ println("La suma de 5 y 3 es: ", resultado)
 
 
 #Alumno B
-println("Hola Mundo")
+println("Hola mundo soy el Alumno A y llegue primero")
 
 # Función de saludo personalizada
 function saludar(nombre)
