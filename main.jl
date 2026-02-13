@@ -4,4 +4,5 @@ function sumar(a, b)
 end
 
 #Imprimir resultado
-println("La suma de 5 y 3 es: ", sumar(5, 3))
+resultado = sumar(5,3)
+println("La suma de 5 y 3 es: ", resultado)
